@@ -1,0 +1,23 @@
+.navigation{
+    background-color: rgb(162, 143, 143);
+    height: 90px;
+    
+
+}
+.tati{
+    background-image: url('./marvel.jpeg');
+    height: 60vh;
+    
+}
+.tati img{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: 100%;
+
+}
+.havi{
+    display: inline;
+    justify-content: space-evenly;
+
+
+}
